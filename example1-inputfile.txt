@@ -1,0 +1,8 @@
+## Example input file with minimal input parameters,
+comment             Amorphous CH3OH at 10K, n=1.314, h=1.02 microns, measured on a KBr substrate
+file_output         example1-output.txt
+file_spectrum       example1-spectrum.txt
+file_substrate      kbr-nk.txt
+thickness_cm        1.02E-04
+visible_index       1.314
+goal                1.00E-05
